@@ -1,3 +1,7 @@
 .vscode
 node_modules/
 .DS_Store
+*.json
+plopFile.js
+.npmrc
+archive
